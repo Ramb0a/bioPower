@@ -4,6 +4,8 @@
 
 (2008) The birth of biopolitics: lectures at the Collège de France, 1978-79. - Foucault
 
+(2008) Knowledge of Life. Canguilhem 
+
 (2007) Being and time and the problem of space. 
 
 (2006) Heidegger’s topology: Being, place, world.
@@ -49,6 +51,8 @@
 (1985) Geographical experiences and Being-in-the-World: the phenomenological origins of 	geography.
 
 (1980) Genius loci: Towards a phenomenology of architecture.
+
+(1978) On the Normal and the Pathological.
 
 (1977) Space and place: The Perspective of experience.
 
