@@ -4,6 +4,8 @@
 
 [China's gene giant harvests data from millions of women](https://github.com/Ramb0a/bioPower/blob/main/papers/China%E2%80%99s_gene%20giant_harvests_data_reuters.pdf)
 
+[China minority region collects DNA from millions](https://github.com/Ramb0a/bioPower/blob/main/papers/china_minority_region_collections_dna_from_millions.pdf)
+
 # References
 
 ## Genomic Security 
