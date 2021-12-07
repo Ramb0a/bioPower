@@ -1,69 +1,15 @@
 # bioPower
 
+# Resources 
+
+[China's gene giant harvests data from millions of women](https://github.com/Ramb0a/bioPower/blob/main/papers/China%E2%80%99s_gene%20giant_harvests_data_reuters.pdf)
+
 # References
 
-(2008) The birth of biopolitics: lectures at the Collège de France, 1978-79. - Foucault
+## Genomic Security 
 
-(2008) Knowledge of Life. Canguilhem 
+(2020) [Privacy Challenges and research opportunities for genomic data sharing](https://github.com/Ramb0a/bioPower/blob/main/papers/Privacy_Challenges_and_Research_Opportunities_for_Genomic_Data_sharing.pdf)
 
-(2007) Being and time and the problem of space. 
+(2019) [Emerging Technologies towards enhancing privacy in genomic data sharing](https://github.com/Ramb0a/bioPower/blob/main/papers/Emerging_technologies_towards_enhancing_privacy_in_genomic_data_sharing.pdf)
 
-(2006) Heidegger’s topology: Being, place, world.
-
-(2006) Heidegger’s hut.
-
-(2004) Place: A Short introduction.
-
-(2003) Heidegger and the issue of space: Thinking on exilic grounds.
-
-(2003) Heidegger’s philosophy of space and place.
-
-(2002) From the Transcendental to the topological: Heidegger on ground, unity, and limit. 
-
-(2001) Converging and diverging in/on place.
-
-(2001) Mapping the present: Heidegger, Foucault and the project of a spatial history.
-
-(2000) What Is dwelling? The Homelessness of modernity and the world-ing of the world.
-
-(1999) Place and experience: A Philosophical topography.
-
-(1998) The Dark side of the domus.
-
-(1997) Smooth spaces and rough-edged places: The Hidden history of place.
-
-(1997) Thirdspace: Journeys to Los Angeles and other real-and-imagined Places.
-
-(1996) The Ethical function of architecture.
-
-(1996) Heidegger’s conception of space.
-
-(1996) On reading Heidegger, Theorizing a new agenda for architecture: An Anthology of architectural theory 1965-1995.
-
-(1993) What is metaphysics? 
-
-(1993) Modernity and the reclamation of place. In D. Seamon, (Ed.), Dwelling, Seeing, and Designing: Toward a Phenomenological ecology
-
-(1993) Worthy of question: Heidegger’s role in architectural theory.
-
-(1988) Architecture, meaning and place: Selected essays.
- 
-(1985) Geographical experiences and Being-in-the-World: the phenomenological origins of 	geography.
-
-(1980) Genius loci: Towards a phenomenology of architecture.
-
-(1978) On the Normal and the Pathological.
-
-(1977) Space and place: The Perspective of experience.
-
-(1976) Place and placelessness.
-
-(1971) Building Dwelling Thinking. 
-
-(1971) Existence, space, and architecture.
-
-(1971) The Thing. In Poetry, language, thought 
-
-(1971b) ...poetically Man dwells...
-
-(1962) Being and time.  
+(2019) [Ensuring privacy and security of genomic data and functionalities](https://github.com/Ramb0a/bioPower/blob/main/papers/ensuring_privacy_security_genomic_data.pdf)
